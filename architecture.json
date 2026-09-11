@@ -1,0 +1,32 @@
+{
+  "frontend": [
+    "HTML/CSS/JavaScript",
+    "responsive web",
+    "player dashboard"
+  ],
+  "backend_modules": [
+    "auth",
+    "users",
+    "KYC",
+    "wallet",
+    "games",
+    "responsible-gaming",
+    "audit",
+    "admin"
+  ],
+  "integrations": [
+    "KYC provider",
+    "payment provider",
+    "licensed game provider",
+    "regulatory reporting"
+  ],
+  "security": [
+    "HTTPS",
+    "MFA",
+    "RBAC",
+    "audit logs",
+    "encryption",
+    "fraud monitoring"
+  ],
+  "current_mode": "demo / virtual credits only"
+}
